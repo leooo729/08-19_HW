@@ -8,6 +8,7 @@
 * <img width="1131" alt="截圖 2022-08-23 上午9 12 33" src="https://user-images.githubusercontent.com/79959043/186046789-a7983614-0d76-4afc-bb64-cee9c54c2bf0.png">
 <img width="1089" alt="截圖 2022-08-23 上午9 13 23" src="https://user-images.githubusercontent.com/79959043/186046694-9d24cc94-eeff-46d6-8f57-7acbf0d0bf49.png">
 * 透過 Edit 針對指定資料進行修改
-<img width="1122" alt="截圖 2022-08-23 上午9 17 09" src="https://user-images.githubusercontent.com/79959043/186047039-a6e6fe33-a9e7-428b-9137-6cbf78265199.png">
+<img width="1125" alt="截圖 2022-08-23 上午9 20 39" src="https://user-images.githubusercontent.com/79959043/186047465-a0cb1424-2bae-461f-b098-1dd05206038a.png">
+<img width="1088" alt="截圖 2022-08-23 上午9 20 51" src="https://user-images.githubusercontent.com/79959043/186047474-88d70f1f-8898-48eb-9575-ad273fc0c378.png">
 * 透過 Delete 針對指定資料進行刪除
 <img width="1130" alt="截圖 2022-08-23 上午9 18 13" src="https://user-images.githubusercontent.com/79959043/186047183-429f023a-2294-4cb9-8edf-790875ecc845.png">
